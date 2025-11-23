@@ -14,8 +14,6 @@ env/
 
 # Project specific
 uploads/
-*.pdf
-*.docx
 *.txt
 !requirements.txt
 !documentation.txt
