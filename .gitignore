@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+venv/
+env/
+.env
+
+# IDEs
+.vscode/
+.idea/
+
+# Project specific
+uploads/
+*.pdf
+*.docx
+*.txt
+!requirements.txt
+!documentation.txt
